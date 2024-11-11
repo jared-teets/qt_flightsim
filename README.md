@@ -8,6 +8,8 @@ It's a port of the [original GLUT based software](https://github.com/robprojects
 
 It's simple and highly extensible to support different drive algorithms, game inputs and actuator outputs.
 
+![qt_flightsim_screenshot](qt_flightsim.png)
+
 ## Setting up the platform
 The File->Platform setup menu allows you to configure the geometry of your platform.
 
@@ -48,7 +50,7 @@ The three combo boxes allow the input, control algorithm and output to be select
 
 ## Building
 
-Requires [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/), [QT Visual Studio Tools](https://doc.qt.io/qtvstools/index.html) and [QT](https://www.qt.io/download-open-source).
+Requires [QT Creator](https://doc.qt.io/qtcreator) and [QT](https://www.qt.io/download-open-source).
 
 ## Development
 
